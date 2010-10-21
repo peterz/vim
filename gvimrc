@@ -23,6 +23,12 @@ set hlsearch
 " enable nerd tree
 map <leader>d :execute 'NERDTreeToggle ' . getcwd()<CR>
 
+" Shortcut to rapidly toggle `set list`
+nmap <leader>l :set list!<CR>
+
+" Use the same symbols as TextMate for tabstops and EOLs
+set listchars=tab:▸\ ,eol:¬
+
 let g:fuzzy_ignore = "*.log"
 let g:fuzzy_matching_limit = 70
 
