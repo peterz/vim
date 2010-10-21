@@ -32,5 +32,5 @@ set listchars=tab:▸\ ,eol:¬
 let g:fuzzy_ignore = "*.log"
 let g:fuzzy_matching_limit = 70
 
-map <leader>t :FuzzyFinderTextMate<CR>
-map <leader>b :FuzzyFinderBuffer<CR>
+map <leader>t :FufFile<CR>
+map <leader>b :FufBuffer<CR>
