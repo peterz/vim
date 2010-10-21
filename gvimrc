@@ -8,7 +8,7 @@ set guioptions-=T
 set guifont=Monaco:h12
 
 " colors
-colorscheme vividchalk
+colorscheme kellys
 
 " open with dimensions
 set columns=150
