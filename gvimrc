@@ -5,7 +5,7 @@ set fuoptions=maxvert,maxhorz
 set guioptions-=T
 
 " font
-set guifont=Monaco:h12
+set guifont=Inconsolata:h14
 
 " colors
 colorscheme kellys
