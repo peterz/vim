@@ -5,10 +5,10 @@ set fuoptions=maxvert,maxhorz
 set guioptions-=T
 
 " font
-set guifont=Inconsolata:h14
+set guifont=MesloLGMDZ:h12
 
 " colors
-colorscheme kellys
+colorscheme molokai
 
 " open with dimensions
 set columns=150
