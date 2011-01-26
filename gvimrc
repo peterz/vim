@@ -8,7 +8,7 @@ set guioptions-=T
 set guifont=MesloLGMDZ:h12
 
 " colors
-colorscheme molokai
+colorscheme vwilight
 
 " open with dimensions
 set columns=150
