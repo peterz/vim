@@ -34,3 +34,4 @@ let g:fuzzy_matching_limit = 70
 
 map <leader>t :FufFile<CR>
 map <leader>b :FufBuffer<CR>
+map <leader>g :GundoToggle<CR>
